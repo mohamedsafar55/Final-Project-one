@@ -1,0 +1,44 @@
+.navbar{
+    background: linear-gradient(#ca686a 70% , #eee);
+}
+.navbar ul li .nav-link , .navbar-brand{
+    color:whitesmoke;
+    font-weight: bold;
+    transition:  all .5sec;
+
+}
+.navbar .nav-link:hover{
+    color:#ce6264;
+    background-color: black;
+    border-radius: 20px;
+    font-weight: bold;
+
+}
+section {
+    margin: 25px;
+}
+.space{
+    width: 35%;
+    border-radius: 50%;
+    height: 3px;
+    background-color: #ce6264;
+    margin: auto;
+
+}
+.about{
+   margin-top: 50px;
+    font-size: 30px;
+
+}
+.site-footer {
+    background-color: #ce6264;
+    padding: 45px 0 20px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #eee ;
+}
+button{
+    border-radius: 10px;
+    background-color: #ce6264;
+    color: #eee;
+}
